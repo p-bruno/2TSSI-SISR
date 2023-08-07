@@ -6,7 +6,7 @@ Ce dépôt contient les supports de l'enseignement de SISR en 2TSIO
 <table cellspacing="0" cellpadding="0" style="border-collapse:collapse; margin:auto;">
 <tr>
     <td colspan=6 style="text-align: center;">
-      <a title="Supervision" href="./introduction"><img src='./assets/supervision-icon.svg' width="128px"/><br/>Supervision</a>
+      <a title="Supervision" href="./Supervision"><img src='./assets/supervision-icon.svg' width="128px"/><br/>Supervision</a>
     </td>
 </tr>
 </table>

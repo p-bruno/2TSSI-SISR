@@ -1,6 +1,3 @@
-# Cours de SISR pour les 2TSSI
-Ce dépôt contient les supports de l'enseignement de SISR en 2TSIO
-
 # Sommaire
 
 <table cellspacing="0" cellpadding="0" style="border-collapse:collapse; margin:auto;">

@@ -6,4 +6,5 @@
 
 # Introduction à la supervision
 <a href="https://docs.google.com/presentation/d/1iJ-CAy4DeTjGyN7J52c-M0Az7E4hMgf6uMzZDjilvbw/edit?usp=sharing&resourcekey=0-FnmdR3qP30RliZXBdgcvRQ">Slides</a>
+
 <a href="https://docs.google.com/document/d/1ZDgUbmym_YwYjXoxC_NJ-LFRdHn4QWZIfcnPe2tQDHQ/edit?usp=sharing">Cours</a>

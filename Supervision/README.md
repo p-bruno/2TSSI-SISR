@@ -20,3 +20,10 @@
 <a href="https://docs.google.com/document/d/1ZDgUbmym_YwYjXoxC_NJ-LFRdHn4QWZIfcnPe2tQDHQ/edit?usp=sharing">Cours</a>
 
 <a href="https://drive.google.com/drive/folders/187ZZvLFhCdr-34hNLvfxFyW4w8Hzt4t8?usp=sharing">TP</a>
+
+# Seance 4 - SNMP
+<a href="https://docs.google.com/presentation/d/1enmKV6__nQdYdz6-BbszwuVVePlg6j4mFg0tZJh9lmI/edit?usp=sharing&resourcekey=0-dfCt0wh3MwWeXSDU8GARfA">Slides</a> 
+
+<a href="https://docs.google.com/document/d/1mNnL3zhk5DylgQFAjoSk3ud8mCemISKH_BdO_jIFZGE/edit?usp=sharing">Cours</a>
+
+<a href="https://drive.google.com/drive/folders/1f4AI0IQ-qgCf58TPMcoaNtBciDK-mLjh?usp=sharing">TP</a> 
